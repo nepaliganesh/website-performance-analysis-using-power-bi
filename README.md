@@ -36,6 +36,3 @@ Expanding the dashboard with more KPIs
 <img width="1308" height="740" alt="image" src="https://github.com/user-attachments/assets/e8e69d3f-1ddc-4c3a-bf93-8d6447430217" />
 
 
-Allocate marketing budgets more effectively.
-
-Continuously improve content and SEO strategies.
